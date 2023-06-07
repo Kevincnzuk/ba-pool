@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BA抽卡模拟</string>
+
+    <string name="server_int">国际服</string>
+    <string name="server_jap">日本服</string>
+    <string name="balance">您的青辉石余量：无限</string>
+    <string name="pool_name">常驻池</string>
+    <string name="pool_chance">每个十连必有一个二星角色！</string>
+    <string name="pool_once">单抽 120石</string>
+    <string name="pool_tenth">十连 1200石</string>
+    <string name="more_pools_coming_soon">更多池子敬请期待……</string>
+    <string name="menu_settings">设置</string>
+
+    <string name="result_title">抽卡结果</string>
+    <string name="result_sub_title">请返回上一级后继续抽卡</string>
+    <string name="signature">Sensei，请签字~</string>
+    <string name="signature_confirmed">一键签字</string>
+    <string name="signature_done">已签字</string>
+
+    <string name="test">目前共有：三星%1$d人，二星%2$d人，一星%3$d人。</string>
+
+    <string name="settings_avatar">学生头像展示</string>
+</resources>
